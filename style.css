@@ -1,0 +1,72 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Roboto', sans-serif;
+}
+/* nav start----- */
+/* nav ends--- */
+
+/* carousel start--- */
+.carousel-bg{
+    background-color: #FCEAE8 !important;
+    padding: 1% 5%;
+    border-radius: 10px;
+}
+.carousel-dis h2{
+    color: #FF136F;
+}
+.button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border: none !important;
+    padding:10px 30px !important;
+    border-radius: 5px !important;
+}
+
+ 
+   
+/* carosusel ends------ */
+
+
+/* iteam show start---- */
+#iteam-show{
+    padding:1% 5%;
+    background-color: #ffffff;
+}
+.iteam-style{
+
+    background:#FFA500;
+    border-radius:10px;
+
+}
+/* iteam show ends-------- */
+
+/* card-----------------start--- */
+#card{ 
+    background: #ffffff;
+}
+.card{
+     
+    border: none !important;
+    box-shadow:2px 4px 6px gray;
+     
+}  
+/* card ends------------------ */
+
+/* submit- start---------------- */
+.contant{
+    background: #FCEAE8;
+   padding: 3% 10%;
+}
+
+/* submit ends---------------- */
+
+/* footer start------ */
+.footer{
+    padding: 5% 5%;
+}
+/* footer end---------- */
